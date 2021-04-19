@@ -22,7 +22,7 @@ Hi there 👋
   <a href="http://linkedin.com/in/mecn/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/mecn/" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=+5562992317121&text=Mensagem"" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=+5562992317121&text=Mensagem" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5562992317121&text=Mensagem"/></a>
 
   <a href="https://www.facebook.com/marioeliasc/" alt="Facebook">
