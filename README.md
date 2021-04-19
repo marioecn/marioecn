@@ -16,7 +16,7 @@ Hi there 👋
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:marioeliasuk@icloud.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marioeliasuk@icloud.com" /></a>
 
   <a href="#" alt="Linkedin">
