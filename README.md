@@ -8,7 +8,7 @@ Hi there 👋
 <p align="left">
 </p>
 <p align="left">
-  👨🏻‍💻Code: I'm currently learning about <strong>Java</strong> and <strong>Python</strong>.
+  👨🏻‍💻Code: Learning everything about: <strong>Java</strong> and <strong>Python</strong>.
 </p>
 
 <p align="left">
