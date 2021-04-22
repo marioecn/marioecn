@@ -3,7 +3,7 @@ Hi there 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  My name is Mario and I'm currently student of <strong>Software Developer</strong> @ Pontifícia Universidade Católica de Goiás.<br>
+  My name is Mario and I'm currently studing <strong>Software Development</strong> @ Pontifícia Universidade Católica de Goiás.<br>
 </p>
 <p align="left">
 </p>
