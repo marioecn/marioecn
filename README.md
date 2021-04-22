@@ -16,9 +16,6 @@ Hi there 👋
 </p>
 
 <p align="left">
-  <a href="mailto:marioeliasuk@icloud.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marioeliasuk@icloud.com" /></a>
-
   <a href="http://linkedin.com/in/mecn/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/mecn/" /></a>
 
